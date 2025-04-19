@@ -1,0 +1,1327 @@
+[
+  {
+    "pitch_mean": 1110.031494140625,
+    "pitch_std": 1034.187255859375,
+    "speech_rate": 2.835696413678065,
+    "energy_mean": 0.05233297869563103,
+    "energy_std": 0.04806215688586235,
+    "zcr_mean": 0.07598227642952128,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5428125000000001
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_20.wav"
+  },
+  {
+    "pitch_mean": 1199.7381591796875,
+    "pitch_std": 1177.5447998046875,
+    "speech_rate": 3.0025020850708923,
+    "energy_mean": 0.051275234669446945,
+    "energy_std": 0.0465037040412426,
+    "zcr_mean": 0.07697701961436171,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5274374999999996
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_21.wav"
+  },
+  {
+    "pitch_mean": 1228.5704345703125,
+    "pitch_std": 1201.8426513671875,
+    "speech_rate": 3.3869602032176123,
+    "energy_mean": 0.04768536984920502,
+    "energy_std": 0.04302486404776573,
+    "zcr_mean": 0.08096230996621621,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5293124999999996
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_22.wav"
+  },
+  {
+    "pitch_mean": 1507.89453125,
+    "pitch_std": 1240.408935546875,
+    "speech_rate": 3.254678600488202,
+    "energy_mean": 0.05220317468047142,
+    "energy_std": 0.045926157385110855,
+    "zcr_mean": 0.10528912321891191,
+    "pause_count": 1,
+    "pause_durations": [
+      0.705
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_23.wav"
+  },
+  {
+    "pitch_mean": 1553.9822998046875,
+    "pitch_std": 1213.2093505859375,
+    "speech_rate": 2.9292107404393817,
+    "energy_mean": 0.04624756798148155,
+    "energy_std": 0.03980284184217453,
+    "zcr_mean": 0.0867723850388601,
+    "pause_count": 1,
+    "pause_durations": [
+      0.515125
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_24.wav"
+  },
+  {
+    "pitch_mean": 997.9331665039062,
+    "pitch_std": 922.5003051757812,
+    "speech_rate": 3.2647267565649396,
+    "energy_mean": 0.047998782247304916,
+    "energy_std": 0.041208479553461075,
+    "zcr_mean": 0.06778713588800905,
+    "pause_count": 2,
+    "pause_durations": [
+      0.36793750000000003,
+      0.5276874999999999
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_35.wav"
+  },
+  {
+    "pitch_mean": 1454.721923828125,
+    "pitch_std": 1253.5020751953125,
+    "speech_rate": 3.1313818924438395,
+    "energy_mean": 0.05514369532465935,
+    "energy_std": 0.04166930168867111,
+    "zcr_mean": 0.10180239470108696,
+    "pause_count": 2,
+    "pause_durations": [
+      0.101625,
+      0.5591875000000002
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_36.wav"
+  },
+  {
+    "pitch_mean": 1433.7557373046875,
+    "pitch_std": 1231.1402587890625,
+    "speech_rate": 3.1227821149751596,
+    "energy_mean": 0.04899080470204353,
+    "energy_std": 0.03976016864180565,
+    "zcr_mean": 0.08500954468325791,
+    "pause_count": 1,
+    "pause_durations": [
+      0.7168125
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_37.wav"
+  },
+  {
+    "pitch_mean": 1203.2412109375,
+    "pitch_std": 1101.1607666015625,
+    "speech_rate": 2.8836251287332644,
+    "energy_mean": 0.05085023120045662,
+    "energy_std": 0.04121016710996628,
+    "zcr_mean": 0.15118086965460525,
+    "pause_count": 0,
+    "pause_durations": [],
+    "transcription": "",
+    "file_name": "mild_impairment_38.wav"
+  },
+  {
+    "pitch_mean": 949.431640625,
+    "pitch_std": 878.3034057617188,
+    "speech_rate": 3.393025447690858,
+    "energy_mean": 0.05373799800872803,
+    "energy_std": 0.04314815625548363,
+    "zcr_mean": 0.09946818524096386,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5786875
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_39.wav"
+  },
+  {
+    "pitch_mean": 942.4551391601562,
+    "pitch_std": 927.5000610351562,
+    "speech_rate": 2.6013771996939554,
+    "energy_mean": 0.04488250985741615,
+    "energy_std": 0.03946608304977417,
+    "zcr_mean": 0.10447313262195122,
+    "pause_count": 2,
+    "pause_durations": [
+      0.3219375,
+      0.5483750000000001
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_5.wav"
+  },
+  {
+    "pitch_mean": 1242.506103515625,
+    "pitch_std": 1122.2244873046875,
+    "speech_rate": 2.821576763485477,
+    "energy_mean": 0.05269056558609009,
+    "energy_std": 0.04927734285593033,
+    "zcr_mean": 0.07941933283730158,
+    "pause_count": 2,
+    "pause_durations": [
+      0.106375,
+      0.6152500000000001
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_50.wav"
+  },
+  {
+    "pitch_mean": 1231.8564453125,
+    "pitch_std": 1206.9346923828125,
+    "speech_rate": 3.137902559867878,
+    "energy_mean": 0.05346456915140152,
+    "energy_std": 0.043657999485731125,
+    "zcr_mean": 0.07130962171052632,
+    "pause_count": 2,
+    "pause_durations": [
+      0.104875,
+      0.522875
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_51.wav"
+  },
+  {
+    "pitch_mean": 1068.05517578125,
+    "pitch_std": 1086.5438232421875,
+    "speech_rate": 3.122432210353328,
+    "energy_mean": 0.05316273123025894,
+    "energy_std": 0.047255873680114746,
+    "zcr_mean": 0.07565802928664922,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5284374999999999
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_52.wav"
+  },
+  {
+    "pitch_mean": 1413.583740234375,
+    "pitch_std": 1232.053466796875,
+    "speech_rate": 3.2388663967611335,
+    "energy_mean": 0.04852420464158058,
+    "energy_std": 0.04077422246336937,
+    "zcr_mean": 0.09994585897020726,
+    "pause_count": 2,
+    "pause_durations": [
+      0.1075,
+      0.6806874999999999
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_53.wav"
+  },
+  {
+    "pitch_mean": 1753.2989501953125,
+    "pitch_std": 1208.15185546875,
+    "speech_rate": 3.2706459525756335,
+    "energy_mean": 0.047769591212272644,
+    "energy_std": 0.044161517173051834,
+    "zcr_mean": 0.10052235921223958,
+    "pause_count": 0,
+    "pause_durations": [],
+    "transcription": "",
+    "file_name": "mild_impairment_54.wav"
+  },
+  {
+    "pitch_mean": 1223.8656005859375,
+    "pitch_std": 1145.3966064453125,
+    "speech_rate": 2.8836251287332644,
+    "energy_mean": 0.05299082025885582,
+    "energy_std": 0.04155857488512993,
+    "zcr_mean": 0.14977384868421054,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5248750000000002
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_6.wav"
+  },
+  {
+    "pitch_mean": 1131.6607666015625,
+    "pitch_std": 1051.0855712890625,
+    "speech_rate": 2.471042471042471,
+    "energy_mean": 0.04205945506691933,
+    "energy_std": 0.038556672632694244,
+    "zcr_mean": 0.12530788177339902,
+    "pause_count": 2,
+    "pause_durations": [
+      0.5418750000000001,
+      0.32425000000000015
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_65.wav"
+  },
+  {
+    "pitch_mean": 1072.5338134765625,
+    "pitch_std": 1004.2108764648438,
+    "speech_rate": 2.7418126428027416,
+    "energy_mean": 0.04406847432255745,
+    "energy_std": 0.03714296221733093,
+    "zcr_mean": 0.10193700697815535,
+    "pause_count": 2,
+    "pause_durations": [
+      0.3313124999999999,
+      0.5410624999999998
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_66.wav"
+  },
+  {
+    "pitch_mean": 1050.15966796875,
+    "pitch_std": 1050.9732666015625,
+    "speech_rate": 3.408071748878924,
+    "energy_mean": 0.06106915697455406,
+    "energy_std": 0.04739045351743698,
+    "zcr_mean": 0.10185267857142857,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5258749999999996
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_67.wav"
+  },
+  {
+    "pitch_mean": 1124.1484375,
+    "pitch_std": 1070.5218505859375,
+    "speech_rate": 3.561387066541706,
+    "energy_mean": 0.055792562663555145,
+    "energy_std": 0.04609723761677742,
+    "zcr_mean": 0.12916062406437126,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5545624999999998
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_68.wav"
+  },
+  {
+    "pitch_mean": 1160.2984619140625,
+    "pitch_std": 1067.1539306640625,
+    "speech_rate": 2.8484231943031535,
+    "energy_mean": 0.04987446218729019,
+    "energy_std": 0.042952798306941986,
+    "zcr_mean": 0.14579317167207792,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5257499999999999
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_69.wav"
+  },
+  {
+    "pitch_mean": 1120.5640869140625,
+    "pitch_std": 1111.2537841796875,
+    "speech_rate": 2.412060301507538,
+    "energy_mean": 0.05687345564365387,
+    "energy_std": 0.046785999089479446,
+    "zcr_mean": 0.14172989282852563,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5275624999999999
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_7.wav"
+  },
+  {
+    "pitch_mean": 1027.4180908203125,
+    "pitch_std": 940.5731201171875,
+    "speech_rate": 3.2100488485694347,
+    "energy_mean": 0.050566356629133224,
+    "energy_std": 0.04251343011856079,
+    "zcr_mean": 0.06392996651785714,
+    "pause_count": 2,
+    "pause_durations": [
+      0.5140625000000001,
+      0.3815624999999998
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_8.wav"
+  },
+  {
+    "pitch_mean": 1145.88623046875,
+    "pitch_std": 1051.1798095703125,
+    "speech_rate": 3.1852472757753563,
+    "energy_mean": 0.05207880958914757,
+    "energy_std": 0.044711820781230927,
+    "zcr_mean": 0.07074594752673796,
+    "pause_count": 0,
+    "pause_durations": [],
+    "transcription": "",
+    "file_name": "mild_impairment_80.wav"
+  },
+  {
+    "pitch_mean": 1246.6873779296875,
+    "pitch_std": 1217.7508544921875,
+    "speech_rate": 3.3030553261767137,
+    "energy_mean": 0.05082474276423454,
+    "energy_std": 0.04392526298761368,
+    "zcr_mean": 0.0864977384868421,
+    "pause_count": 2,
+    "pause_durations": [
+      0.104875,
+      0.5591874999999997
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_81.wav"
+  },
+  {
+    "pitch_mean": 1173.2890625,
+    "pitch_std": 1076.69677734375,
+    "speech_rate": 3.0176026823134956,
+    "energy_mean": 0.05848916247487068,
+    "energy_std": 0.05484652519226074,
+    "zcr_mean": 0.07581676136363637,
+    "pause_count": 2,
+    "pause_durations": [
+      0.10175,
+      0.5210624999999998
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_82.wav"
+  },
+  {
+    "pitch_mean": 1273.5364990234375,
+    "pitch_std": 1149.6209716796875,
+    "speech_rate": 2.7664768104149715,
+    "energy_mean": 0.049939386546611786,
+    "energy_std": 0.04446053132414818,
+    "zcr_mean": 0.1021317397992228,
+    "pause_count": 1,
+    "pause_durations": [
+      0.635375
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_83.wav"
+  },
+  {
+    "pitch_mean": 1756.560302734375,
+    "pitch_std": 1237.8912353515625,
+    "speech_rate": 3.254678600488202,
+    "energy_mean": 0.05074836686253548,
+    "energy_std": 0.04687889292836189,
+    "zcr_mean": 0.09993320919689119,
+    "pause_count": 1,
+    "pause_durations": [
+      0.105125
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_84.wav"
+  },
+  {
+    "pitch_mean": 951.9026489257812,
+    "pitch_std": 927.5734252929688,
+    "speech_rate": 3.8924930491195555,
+    "energy_mean": 0.04875142499804497,
+    "energy_std": 0.04266427457332611,
+    "zcr_mean": 0.10957146819526627,
+    "pause_count": 1,
+    "pause_durations": [
+      0.5454375000000001
+    ],
+    "transcription": "",
+    "file_name": "mild_impairment_9.wav"
+  },
+  {
+    "pitch_mean": 1203.2593994140625,
+    "pitch_std": 1099.8680419921875,
+    "speech_rate": 1.88087313657637,
+    "energy_mean": 0.04695284739136696,
+    "energy_std": 0.04357173666357994,
+    "zcr_mean": 0.120359492481203,
+    "pause_count": 3,
+    "pause_durations": [
+      0.1314375,
+      1.5328750000000002,
+      0.774
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_10.wav"
+  },
+  {
+    "pitch_mean": 1117.3720703125,
+    "pitch_std": 1063.758544921875,
+    "speech_rate": 2.266749616562055,
+    "energy_mean": 0.04639924317598343,
+    "energy_std": 0.04867522418498993,
+    "zcr_mean": 0.09350278842374214,
+    "pause_count": 3,
+    "pause_durations": [
+      0.12775,
+      0.43881250000000005,
+      1.5480625
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_11.wav"
+  },
+  {
+    "pitch_mean": 1072.49560546875,
+    "pitch_std": 1008.533935546875,
+    "speech_rate": 1.8023994442601712,
+    "energy_mean": 0.041600290685892105,
+    "energy_std": 0.039823051542043686,
+    "zcr_mean": 0.10020685652955272,
+    "pause_count": 3,
+    "pause_durations": [
+      0.1293125,
+      0.4540000000000002,
+      1.5703749999999999
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_12.wav"
+  },
+  {
+    "pitch_mean": 1522.7777099609375,
+    "pitch_std": 1209.1837158203125,
+    "speech_rate": 2.2847634835192805,
+    "energy_mean": 0.0492856539785862,
+    "energy_std": 0.05115148425102234,
+    "zcr_mean": 0.10293898809523809,
+    "pause_count": 3,
+    "pause_durations": [
+      0.13875,
+      0.40893749999999995,
+      1.7271875000000003
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_13.wav"
+  },
+  {
+    "pitch_mean": 1376.5782470703125,
+    "pitch_std": 1106.102294921875,
+    "speech_rate": 1.7885488162042522,
+    "energy_mean": 0.04792638495564461,
+    "energy_std": 0.0483769066631794,
+    "zcr_mean": 0.11847782497623574,
+    "pause_count": 4,
+    "pause_durations": [
+      0.1336875,
+      0.18837500000000018,
+      0.7558749999999996,
+      1.5459375
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_14.wav"
+  },
+  {
+    "pitch_mean": 1129.4892578125,
+    "pitch_std": 1072.6513671875,
+    "speech_rate": 2.333799651256075,
+    "energy_mean": 0.053525298833847046,
+    "energy_std": 0.053590185940265656,
+    "zcr_mean": 0.06668597722457627,
+    "pause_count": 2,
+    "pause_durations": [
+      0.1288125,
+      1.605375
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_25.wav"
+  },
+  {
+    "pitch_mean": 1116.67626953125,
+    "pitch_std": 1094.0157470703125,
+    "speech_rate": 2.316171148503795,
+    "energy_mean": 0.04513441398739815,
+    "energy_std": 0.04414939507842064,
+    "zcr_mean": 0.06649909220950705,
+    "pause_count": 2,
+    "pause_durations": [
+      0.128625,
+      1.5569999999999995
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_26.wav"
+  },
+  {
+    "pitch_mean": 1244.2059326171875,
+    "pitch_std": 1125.7479248046875,
+    "speech_rate": 2.578790788881651,
+    "energy_mean": 0.04485860466957092,
+    "energy_std": 0.04566122218966484,
+    "zcr_mean": 0.07360630100945018,
+    "pause_count": 2,
+    "pause_durations": [
+      0.141,
+      1.5624374999999997
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_27.wav"
+  },
+  {
+    "pitch_mean": 1446.286376953125,
+    "pitch_std": 1226.5509033203125,
+    "speech_rate": 2.493069396923916,
+    "energy_mean": 0.0476621650159359,
+    "energy_std": 0.04966862499713898,
+    "zcr_mean": 0.09109608596345516,
+    "pause_count": 2,
+    "pause_durations": [
+      0.124375,
+      1.6623124999999996
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_28.wav"
+  },
+  {
+    "pitch_mean": 1590.3092041015625,
+    "pitch_std": 1212.542236328125,
+    "speech_rate": 1.9633467699877905,
+    "energy_mean": 0.04835096374154091,
+    "energy_std": 0.05221277475357056,
+    "zcr_mean": 0.07770712921238244,
+    "pause_count": 3,
+    "pause_durations": [
+      0.125875,
+      1.6561875000000001,
+      1.7419374999999997
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_29.wav"
+  },
+  {
+    "pitch_mean": 1335.6182861328125,
+    "pitch_std": 1158.9996337890625,
+    "speech_rate": 2.0996603799335456,
+    "energy_mean": 0.04846524819731712,
+    "energy_std": 0.042991168797016144,
+    "zcr_mean": 0.07106521238270777,
+    "pause_count": 3,
+    "pause_durations": [
+      0.1300625,
+      1.7046874999999995,
+      1.3805625
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_40.wav"
+  },
+  {
+    "pitch_mean": 1156.410888671875,
+    "pitch_std": 1107.5986328125,
+    "speech_rate": 2.3841010262809887,
+    "energy_mean": 0.05015398561954498,
+    "energy_std": 0.05822538584470749,
+    "zcr_mean": 0.09208829365079366,
+    "pause_count": 3,
+    "pause_durations": [
+      0.1339375,
+      1.5619375,
+      0.3719999999999999
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_41.wav"
+  },
+  {
+    "pitch_mean": 1215.197509765625,
+    "pitch_std": 1101.3426513671875,
+    "speech_rate": 1.7879513253777342,
+    "energy_mean": 0.042213018983602524,
+    "energy_std": 0.046911802142858505,
+    "zcr_mean": 0.09190538194444445,
+    "pause_count": 4,
+    "pause_durations": [
+      0.1263125,
+      0.4433750000000001,
+      1.5591875000000002,
+      1.4113749999999996
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_42.wav"
+  },
+  {
+    "pitch_mean": 1094.1168212890625,
+    "pitch_std": 987.6689453125,
+    "speech_rate": 2.1502255048998267,
+    "energy_mean": 0.04809994623064995,
+    "energy_std": 0.045966312289237976,
+    "zcr_mean": 0.06426264165521978,
+    "pause_count": 5,
+    "pause_durations": [
+      0.1356875,
+      0.5411874999999999,
+      0.1039374999999998,
+      1.5459375000000009,
+      0.19243750000000048
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_43.wav"
+  },
+  {
+    "pitch_mean": 1385.8160400390625,
+    "pitch_std": 1213.145263671875,
+    "speech_rate": 2.387967298114501,
+    "energy_mean": 0.05156911537051201,
+    "energy_std": 0.04978026822209358,
+    "zcr_mean": 0.07543117717161017,
+    "pause_count": 2,
+    "pause_durations": [
+      0.1291875,
+      1.5363124999999993
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_44.wav"
+  },
+  {
+    "pitch_mean": 1157.111328125,
+    "pitch_std": 1052.4114990234375,
+    "speech_rate": 2.8764140704588277,
+    "energy_mean": 0.050917912274599075,
+    "energy_std": 0.049038078635931015,
+    "zcr_mean": 0.07265757865646258,
+    "pause_count": 2,
+    "pause_durations": [
+      0.151375,
+      1.6611875
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_55.wav"
+  },
+  {
+    "pitch_mean": 1385.4814453125,
+    "pitch_std": 1212.8262939453125,
+    "speech_rate": 1.9176093803058851,
+    "energy_mean": 0.051302287727594376,
+    "energy_std": 0.05086855962872505,
+    "zcr_mean": 0.07192017431972789,
+    "pause_count": 1,
+    "pause_durations": [
+      1.8536875
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_56.wav"
+  },
+  {
+    "pitch_mean": 1218.9229736328125,
+    "pitch_std": 1173.7745361328125,
+    "speech_rate": 2.5256164769022766,
+    "energy_mean": 0.048474714159965515,
+    "energy_std": 0.04648437350988388,
+    "zcr_mean": 0.07027138157894737,
+    "pause_count": 2,
+    "pause_durations": [
+      0.1291875,
+      1.5577500000000004
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_57.wav"
+  },
+  {
+    "pitch_mean": 1382.5025634765625,
+    "pitch_std": 1241.00830078125,
+    "speech_rate": 2.7008251800009093,
+    "energy_mean": 0.0466860756278038,
+    "energy_std": 0.0455346517264843,
+    "zcr_mean": 0.08823939732142858,
+    "pause_count": 1,
+    "pause_durations": [
+      0.1395625
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_58.wav"
+  },
+  {
+    "pitch_mean": 1625.1240234375,
+    "pitch_std": 1220.8148193359375,
+    "speech_rate": 2.3239385476704495,
+    "energy_mean": 0.04828052595257759,
+    "energy_std": 0.0495697557926178,
+    "zcr_mean": 0.07666675464527027,
+    "pause_count": 2,
+    "pause_durations": [
+      0.125,
+      1.6113749999999998
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_59.wav"
+  },
+  {
+    "pitch_mean": 1142.4432373046875,
+    "pitch_std": 1022.189208984375,
+    "speech_rate": 1.7716491839340944,
+    "energy_mean": 0.04466642811894417,
+    "energy_std": 0.04378984495997429,
+    "zcr_mean": 0.12378943101415095,
+    "pause_count": 3,
+    "pause_durations": [
+      0.1245,
+      1.5589375000000003,
+      0.7782499999999999
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_70.wav"
+  },
+  {
+    "pitch_mean": 1155.66455078125,
+    "pitch_std": 1086.6219482421875,
+    "speech_rate": 2.314281581640033,
+    "energy_mean": 0.047566331923007965,
+    "energy_std": 0.04719419404864311,
+    "zcr_mean": 0.06944429580479453,
+    "pause_count": 5,
+    "pause_durations": [
+      0.1336875,
+      1.5428750000000002,
+      0.55375,
+      0.2162500000000005,
+      0.19399999999999906
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_71.wav"
+  },
+  {
+    "pitch_mean": 1106.230712890625,
+    "pitch_std": 1038.8121337890625,
+    "speech_rate": 1.957998797533347,
+    "energy_mean": 0.0460064522922039,
+    "energy_std": 0.04362068325281143,
+    "zcr_mean": 0.063323974609375,
+    "pause_count": 7,
+    "pause_durations": [
+      0.134125,
+      1.6059999999999999,
+      0.5740625000000001,
+      0.10887499999999939,
+      0.12168750000000017,
+      0.10368749999999949,
+      0.21237499999999976
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_72.wav"
+  },
+  {
+    "pitch_mean": 1531.781982421875,
+    "pitch_std": 1221.0045166015625,
+    "speech_rate": 2.3795490974788898,
+    "energy_mean": 0.052742134779691696,
+    "energy_std": 0.046333298087120056,
+    "zcr_mean": 0.07949768926056339,
+    "pause_count": 2,
+    "pause_durations": [
+      0.1305625,
+      1.64975
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_73.wav"
+  },
+  {
+    "pitch_mean": 1370.0738525390625,
+    "pitch_std": 1167.7203369140625,
+    "speech_rate": 2.17633549048638,
+    "energy_mean": 0.04640425369143486,
+    "energy_std": 0.04004206508398056,
+    "zcr_mean": 0.07454905790441177,
+    "pause_count": 2,
+    "pause_durations": [
+      0.1315625,
+      3.0946875
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_74.wav"
+  },
+  {
+    "pitch_mean": 1197.8177490234375,
+    "pitch_std": 1106.879638671875,
+    "speech_rate": 2.492768937931408,
+    "energy_mean": 0.05010731890797615,
+    "energy_std": 0.048141077160835266,
+    "zcr_mean": 0.06456125648788927,
+    "pause_count": 2,
+    "pause_durations": [
+      0.152125,
+      1.5516874999999999
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_85.wav"
+  },
+  {
+    "pitch_mean": 1248.79296875,
+    "pitch_std": 1200.3250732421875,
+    "speech_rate": 2.112671406973136,
+    "energy_mean": 0.052578095346689224,
+    "energy_std": 0.05216718092560768,
+    "zcr_mean": 0.06710567989864864,
+    "pause_count": 2,
+    "pause_durations": [
+      0.14475,
+      1.5611875000000008
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_86.wav"
+  },
+  {
+    "pitch_mean": 1219.6708984375,
+    "pitch_std": 1158.05615234375,
+    "speech_rate": 1.8505037860491065,
+    "energy_mean": 0.04611611366271973,
+    "energy_std": 0.04441036283969879,
+    "zcr_mean": 0.07319132486979167,
+    "pause_count": 2,
+    "pause_durations": [
+      0.1490625,
+      1.5488125
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_87.wav"
+  },
+  {
+    "pitch_mean": 1455.582275390625,
+    "pitch_std": 1266.94482421875,
+    "speech_rate": 2.4607648431596756,
+    "energy_mean": 0.048069898039102554,
+    "energy_std": 0.048575904220342636,
+    "zcr_mean": 0.1084550981228669,
+    "pause_count": 2,
+    "pause_durations": [
+      0.1290625,
+      1.568375
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_88.wav"
+  },
+  {
+    "pitch_mean": 1635.890625,
+    "pitch_std": 1234.1766357421875,
+    "speech_rate": 2.524538647136555,
+    "energy_mean": 0.04300671070814133,
+    "energy_std": 0.042408790439367294,
+    "zcr_mean": 0.08113497535654363,
+    "pause_count": 2,
+    "pause_durations": [
+      0.1398125,
+      1.5450625000000002
+    ],
+    "transcription": "",
+    "file_name": "moderate_impairment_89.wav"
+  },
+  {
+    "pitch_mean": 1596.645263671875,
+    "pitch_std": 1229.193603515625,
+    "speech_rate": 3.3203125,
+    "energy_mean": 0.08058532327413559,
+    "energy_std": 0.05493427813053131,
+    "zcr_mean": 0.09035932647515528,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19993749999999988
+    ],
+    "transcription": "",
+    "file_name": "normal_0.wav"
+  },
+  {
+    "pitch_mean": 1254.5040283203125,
+    "pitch_std": 1072.8515625,
+    "speech_rate": 3.548895899053628,
+    "energy_mean": 0.0733318105340004,
+    "energy_std": 0.05761253461241722,
+    "zcr_mean": 0.07878218356918239,
+    "pause_count": 5,
+    "pause_durations": [
+      0.19993750000000005,
+      0.3323125,
+      0.11500000000000021,
+      0.10231250000000003,
+      0.12362500000000054
+    ],
+    "transcription": "",
+    "file_name": "normal_1.wav"
+  },
+  {
+    "pitch_mean": 1341.1109619140625,
+    "pitch_std": 1135.2808837890625,
+    "speech_rate": 4.184100418410042,
+    "energy_mean": 0.09174968302249908,
+    "energy_std": 0.058972228318452835,
+    "zcr_mean": 0.09222819010416666,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19987500000000002
+    ],
+    "transcription": "",
+    "file_name": "normal_15.wav"
+  },
+  {
+    "pitch_mean": 1440.7037353515625,
+    "pitch_std": 1277.45849609375,
+    "speech_rate": 4.184100418410042,
+    "energy_mean": 0.08727636188268661,
+    "energy_std": 0.0611138679087162,
+    "zcr_mean": 0.08846028645833333,
+    "pause_count": 0,
+    "pause_durations": [],
+    "transcription": "",
+    "file_name": "normal_16.wav"
+  },
+  {
+    "pitch_mean": 1437.3636474609375,
+    "pitch_std": 1221.384521484375,
+    "speech_rate": 4.473684210526316,
+    "energy_mean": 0.08775106817483902,
+    "energy_std": 0.06127658113837242,
+    "zcr_mean": 0.08894514837184873,
+    "pause_count": 0,
+    "pause_durations": [],
+    "transcription": "",
+    "file_name": "normal_17.wav"
+  },
+  {
+    "pitch_mean": 1609.645751953125,
+    "pitch_std": 1259.2103271484375,
+    "speech_rate": 4.081632653061225,
+    "energy_mean": 0.08841989934444427,
+    "energy_std": 0.05847027897834778,
+    "zcr_mean": 0.12445614202235772,
+    "pause_count": 1,
+    "pause_durations": [
+      0.1998125
+    ],
+    "transcription": "",
+    "file_name": "normal_18.wav"
+  },
+  {
+    "pitch_mean": 1716.2373046875,
+    "pitch_std": 1201.3544921875,
+    "speech_rate": 4.310344827586207,
+    "energy_mean": 0.08656982332468033,
+    "energy_std": 0.06046191602945328,
+    "zcr_mean": 0.10747700352822581,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19987500000000002
+    ],
+    "transcription": "",
+    "file_name": "normal_19.wav"
+  },
+  {
+    "pitch_mean": 1402.288818359375,
+    "pitch_std": 1199.56396484375,
+    "speech_rate": 3.5244360902255636,
+    "energy_mean": 0.07616275548934937,
+    "energy_std": 0.05442120134830475,
+    "zcr_mean": 0.13435386543843283,
+    "pause_count": 2,
+    "pause_durations": [
+      0.19993750000000005,
+      0.3042499999999999
+    ],
+    "transcription": "",
+    "file_name": "normal_2.wav"
+  },
+  {
+    "pitch_mean": 1258.3018798828125,
+    "pitch_std": 1059.2198486328125,
+    "speech_rate": 3.763866877971474,
+    "energy_mean": 0.07362475246191025,
+    "energy_std": 0.057568762451410294,
+    "zcr_mean": 0.07623059236550633,
+    "pause_count": 5,
+    "pause_durations": [
+      0.19993749999999988,
+      0.33225000000000016,
+      0.11500000000000021,
+      0.10237500000000033,
+      0.12368749999999995
+    ],
+    "transcription": "",
+    "file_name": "normal_3.wav"
+  },
+  {
+    "pitch_mean": 1348.78369140625,
+    "pitch_std": 1172.2255859375,
+    "speech_rate": 3.289473684210526,
+    "energy_mean": 0.07736855000257492,
+    "energy_std": 0.05269308015704155,
+    "zcr_mean": 0.13377813083022388,
+    "pause_count": 2,
+    "pause_durations": [
+      0.30425,
+      0.1999375000000001
+    ],
+    "transcription": "",
+    "file_name": "normal_30.wav"
+  },
+  {
+    "pitch_mean": 1617.7642822265625,
+    "pitch_std": 1230.23486328125,
+    "speech_rate": 3.125,
+    "energy_mean": 0.08077703416347504,
+    "energy_std": 0.054650746285915375,
+    "zcr_mean": 0.09085973893633541,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19956249999999998
+    ],
+    "transcription": "",
+    "file_name": "normal_31.wav"
+  },
+  {
+    "pitch_mean": 1305.1080322265625,
+    "pitch_std": 1080.2249755859375,
+    "speech_rate": 3.763866877971474,
+    "energy_mean": 0.0737883672118187,
+    "energy_std": 0.057324424386024475,
+    "zcr_mean": 0.07913864715189874,
+    "pause_count": 5,
+    "pause_durations": [
+      0.33237499999999986,
+      0.19987500000000002,
+      0.11499999999999977,
+      0.10225000000000017,
+      0.12362499999999965
+    ],
+    "transcription": "",
+    "file_name": "normal_32.wav"
+  },
+  {
+    "pitch_mean": 1297.8345947265625,
+    "pitch_std": 1150.267333984375,
+    "speech_rate": 4.828326180257511,
+    "energy_mean": 0.08623887598514557,
+    "energy_std": 0.060780055820941925,
+    "zcr_mean": 0.12183660523504274,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19993749999999988
+    ],
+    "transcription": "",
+    "file_name": "normal_33.wav"
+  },
+  {
+    "pitch_mean": 1558.2452392578125,
+    "pitch_std": 1231.19091796875,
+    "speech_rate": 3.91566265060241,
+    "energy_mean": 0.0817732959985733,
+    "energy_std": 0.05528836324810982,
+    "zcr_mean": 0.17316143329326922,
+    "pause_count": 1,
+    "pause_durations": [
+      0.1999375000000001
+    ],
+    "transcription": "",
+    "file_name": "normal_34.wav"
+  },
+  {
+    "pitch_mean": 1548.7626953125,
+    "pitch_std": 1221.2069091796875,
+    "speech_rate": 3.7593984962406015,
+    "energy_mean": 0.07579492032527924,
+    "energy_std": 0.05493266507983208,
+    "zcr_mean": 0.1342336170708955,
+    "pause_count": 2,
+    "pause_durations": [
+      0.30425,
+      0.20124999999999993
+    ],
+    "transcription": "",
+    "file_name": "normal_4.wav"
+  },
+  {
+    "pitch_mean": 1181.2630615234375,
+    "pitch_std": 1074.5369873046875,
+    "speech_rate": 4.968619246861925,
+    "energy_mean": 0.09125848114490509,
+    "energy_std": 0.059730254113674164,
+    "zcr_mean": 0.08940022786458333,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19999999999999996
+    ],
+    "transcription": "",
+    "file_name": "normal_45.wav"
+  },
+  {
+    "pitch_mean": 1587.2913818359375,
+    "pitch_std": 1265.095947265625,
+    "speech_rate": 4.184100418410042,
+    "energy_mean": 0.08727593719959259,
+    "energy_std": 0.06111447885632515,
+    "zcr_mean": 0.08781331380208333,
+    "pause_count": 0,
+    "pause_durations": [],
+    "transcription": "",
+    "file_name": "normal_46.wav"
+  },
+  {
+    "pitch_mean": 1444.19677734375,
+    "pitch_std": 1215.6419677734375,
+    "speech_rate": 3.947368421052632,
+    "energy_mean": 0.08863310515880585,
+    "energy_std": 0.05999290570616722,
+    "zcr_mean": 0.09295397846638656,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19987500000000002
+    ],
+    "transcription": "",
+    "file_name": "normal_47.wav"
+  },
+  {
+    "pitch_mean": 1616.285888671875,
+    "pitch_std": 1238.2999267578125,
+    "speech_rate": 3.316326530612245,
+    "energy_mean": 0.08794853091239929,
+    "energy_std": 0.059122711420059204,
+    "zcr_mean": 0.12453950711382114,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19956249999999986
+    ],
+    "transcription": "",
+    "file_name": "normal_48.wav"
+  },
+  {
+    "pitch_mean": 1711.576904296875,
+    "pitch_std": 1200.7232666015625,
+    "speech_rate": 4.310344827586207,
+    "energy_mean": 0.08673438429832458,
+    "energy_std": 0.06020614504814148,
+    "zcr_mean": 0.1075045677923387,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19987500000000002
+    ],
+    "transcription": "",
+    "file_name": "normal_49.wav"
+  },
+  {
+    "pitch_mean": 1561.2344970703125,
+    "pitch_std": 1214.4464111328125,
+    "speech_rate": 3.91566265060241,
+    "energy_mean": 0.0797925516963005,
+    "energy_std": 0.058110494166612625,
+    "zcr_mean": 0.17049466646634615,
+    "pause_count": 0,
+    "pause_durations": [],
+    "transcription": "",
+    "file_name": "normal_60.wav"
+  },
+  {
+    "pitch_mean": 1570.995361328125,
+    "pitch_std": 1226.232177734375,
+    "speech_rate": 3.90625,
+    "energy_mean": 0.08068976551294327,
+    "energy_std": 0.054780781269073486,
+    "zcr_mean": 0.09015612868788819,
+    "pause_count": 1,
+    "pause_durations": [
+      0.20018749999999974
+    ],
+    "transcription": "",
+    "file_name": "normal_61.wav"
+  },
+  {
+    "pitch_mean": 1613.2529296875,
+    "pitch_std": 1222.5440673828125,
+    "speech_rate": 4.1015625,
+    "energy_mean": 0.08036820590496063,
+    "energy_std": 0.05525140464305878,
+    "zcr_mean": 0.09118121603260869,
+    "pause_count": 1,
+    "pause_durations": [
+      0.1999375
+    ],
+    "transcription": "",
+    "file_name": "normal_62.wav"
+  },
+  {
+    "pitch_mean": 1340.6328125,
+    "pitch_std": 1168.8385009765625,
+    "speech_rate": 4.560085836909871,
+    "energy_mean": 0.0848439633846283,
+    "energy_std": 0.06273781508207321,
+    "zcr_mean": 0.11760483440170941,
+    "pause_count": 0,
+    "pause_durations": [],
+    "transcription": "",
+    "file_name": "normal_63.wav"
+  },
+  {
+    "pitch_mean": 1398.7041015625,
+    "pitch_std": 1108.88623046875,
+    "speech_rate": 3.565768621236133,
+    "energy_mean": 0.07281284034252167,
+    "energy_std": 0.05855907127261162,
+    "zcr_mean": 0.07901503164556962,
+    "pause_count": 5,
+    "pause_durations": [
+      0.33237499999999986,
+      0.20124999999999993,
+      0.11499999999999977,
+      0.10225000000000017,
+      0.12362499999999965
+    ],
+    "transcription": "",
+    "file_name": "normal_64.wav"
+  },
+  {
+    "pitch_mean": 1245.2257080078125,
+    "pitch_std": 1088.6619873046875,
+    "speech_rate": 4.2105263157894735,
+    "energy_mean": 0.09193874895572662,
+    "energy_std": 0.0591299794614315,
+    "zcr_mean": 0.09281446953781512,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19987500000000002
+    ],
+    "transcription": "",
+    "file_name": "normal_75.wav"
+  },
+  {
+    "pitch_mean": 1399.9193115234375,
+    "pitch_std": 1245.7337646484375,
+    "speech_rate": 4.7071129707112975,
+    "energy_mean": 0.08839213103055954,
+    "energy_std": 0.0594160296022892,
+    "zcr_mean": 0.0925048828125,
+    "pause_count": 1,
+    "pause_durations": [
+      0.20006250000000003
+    ],
+    "transcription": "",
+    "file_name": "normal_76.wav"
+  },
+  {
+    "pitch_mean": 1475.2874755859375,
+    "pitch_std": 1227.5137939453125,
+    "speech_rate": 4.2105263157894735,
+    "energy_mean": 0.08981006592512131,
+    "energy_std": 0.05826280266046524,
+    "zcr_mean": 0.09168608849789917,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19993749999999988
+    ],
+    "transcription": "",
+    "file_name": "normal_77.wav"
+  },
+  {
+    "pitch_mean": 1572.39013671875,
+    "pitch_std": 1246.6942138671875,
+    "speech_rate": 4.336734693877551,
+    "energy_mean": 0.08677051216363907,
+    "energy_std": 0.06085721775889397,
+    "zcr_mean": 0.12674669715447154,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19999999999999996
+    ],
+    "transcription": "",
+    "file_name": "normal_78.wav"
+  },
+  {
+    "pitch_mean": 1763.1519775390625,
+    "pitch_std": 1215.045654296875,
+    "speech_rate": 4.310344827586207,
+    "energy_mean": 0.08605141937732697,
+    "energy_std": 0.06117880344390869,
+    "zcr_mean": 0.10822517641129033,
+    "pause_count": 1,
+    "pause_durations": [
+      0.19999999999999996
+    ],
+    "transcription": "",
+    "file_name": "normal_79.wav"
+  }
+]

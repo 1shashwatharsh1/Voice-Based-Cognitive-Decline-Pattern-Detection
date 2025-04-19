@@ -1,0 +1,43 @@
+=== Cognitive Pattern Analysis Report ===
+
+Number of samples analyzed: 90
+Number of features: 16
+
+Principal Component Analysis:
+- PC1 explains 36.76% of variance
+- PC2 explains 24.68% of variance
+- PC3 explains 13.32% of variance
+- Total variance explained: 74.76%
+
+Cluster Analysis:
+
+Cluster 0 (40 samples):
+Key Features:
+- spectral_centroid_mean: 1298.217 ± 107.261
+- zcr_mean: 0.076 ± 0.008
+- spectral_centroid_std: 1055.010 ± 117.624
+- spectral_rolloff_mean: 2571.138 ± 241.187
+- spectral_rolloff_std: 2059.805 ± 94.920
+
+Cluster 1 (26 samples):
+Key Features:
+- spectral_centroid_mean: 1675.420 ± 209.887
+- zcr_mean: 0.121 ± 0.023
+- spectral_centroid_std: 1419.930 ± 140.303
+- spectral_rolloff_mean: 3104.316 ± 394.217
+- spectral_rolloff_std: 2316.773 ± 112.186
+
+Cluster 2 (24 samples):
+Key Features:
+- spectral_centroid_mean: 1523.755 ± 118.903
+- zcr_mean: 0.102 ± 0.015
+- spectral_centroid_std: 1233.948 ± 112.269
+- spectral_rolloff_mean: 2819.110 ± 241.011
+- spectral_rolloff_std: 2157.003 ± 79.149
+
+Top Features by Importance:
+- pitch_std: 0.276
+- pitch_mean: 0.268
+- pause_duration_std: 0.260
+- speech_rate: 0.256
+- zcr_std: 0.253

@@ -1,0 +1,32 @@
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "src/web_app.py",
+            "use": "@vercel/python",
+            "config": {
+                "maxLambdaSize": "50mb",
+                "pythonVersion": "3.9",
+                "includedFiles": ["vendor/**"]
+            }
+        },
+        {
+            "src": "src/templates/**",
+            "use": "@vercel/static"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/static/(.*)",
+            "dest": "src/static/$1"
+        },
+        {
+            "src": "/(.*)",
+            "dest": "src/web_app.py"
+        }
+    ],
+    "env": {
+        "PYTHONPATH": "src:vendor",
+        "FLASK_ENV": "production"
+    }
+} 

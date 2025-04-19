@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis Results - Cognitive Decline Detection</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #4e79a7;
+            --secondary-color: #f28e2c;
+            --background-color: #f8f9fa;
+            --text-color: #2c3e50;
+        }
+        
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-color);
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+            min-height: 100vh;
+        }
+        
+        .results-container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+            padding: 3rem;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 3rem;
+        }
+        
+        .header h1 {
+            color: var(--primary-color);
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+        
+        .file-info {
+            background-color: rgba(78, 121, 167, 0.1);
+            border-radius: 15px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+        }
+        
+        .file-info h5 {
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+        }
+        
+        .feature-card {
+            margin-bottom: 1.5rem;
+            border: none;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+            transition: transform 0.3s ease;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-5px);
+        }
+        
+        .feature-card .card-body {
+            padding: 1.5rem;
+        }
+        
+        .feature-card .card-title {
+            color: var(--primary-color);
+            font-weight: 600;
+            margin-bottom: 1rem;
+        }
+        
+        .feature-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--secondary-color);
+            margin-bottom: 0.5rem;
+        }
+        
+        .interpretation {
+            font-style: italic;
+            color: #666;
+            margin-bottom: 0;
+        }
+        
+        .visualization {
+            margin: 3rem 0;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        
+        .visualization h3 {
+            color: var(--primary-color);
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        
+        .report-section {
+            margin-top: 3rem;
+            padding: 2rem;
+            background-color: white;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+        }
+        
+        .report-section h3 {
+            color: var(--primary-color);
+            margin-bottom: 1.5rem;
+        }
+        
+        .report-section pre {
+            background-color: #f8f9fa;
+            padding: 1.5rem;
+            border-radius: 10px;
+            font-family: 'Poppins', sans-serif;
+            white-space: pre-wrap;
+        }
+        
+        .btn-primary {
+            background-color: var(--primary-color);
+            border-color: var(--primary-color);
+            padding: 0.8rem 2rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+        
+        .btn-primary:hover {
+            background-color: #3a5a80;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(78, 121, 167, 0.3);
+        }
+        
+        .status-indicator {
+            display: inline-block;
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            margin-right: 8px;
+        }
+        
+        .status-normal {
+            background-color: #4CAF50;
+        }
+        
+        .status-mild {
+            background-color: #FFC107;
+        }
+        
+        .status-significant {
+            background-color: #F44336;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="results-container">
+            <div class="header">
+                <h1>Analysis Results</h1>
+            </div>
+            
+            <div class="file-info">
+                <h5>File Analyzed: {{ filename }}</h5>
+            </div>
+            
+            <h3 class="mt-4">Key Features</h3>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="card feature-card">
+                        <div class="card-body">
+                            <h5 class="card-title">Speech Rate</h5>
+                            <p class="feature-value">{{ "%.2f"|format(features.speech_rate) }} words/second</p>
+                            <p class="interpretation">
+                                {% if features.speech_rate > 3.0 %}
+                                    <span class="status-indicator status-normal"></span>Normal speech rate
+                                {% elif features.speech_rate > 2.0 %}
+                                    <span class="status-indicator status-mild"></span>Slightly reduced speech rate
+                                {% else %}
+                                    <span class="status-indicator status-significant"></span>Significantly reduced speech rate
+                                {% endif %}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card feature-card">
+                        <div class="card-body">
+                            <h5 class="card-title">Pause Duration</h5>
+                            <p class="feature-value">{{ "%.2f"|format(features.pause_duration_mean) }} seconds</p>
+                            <p class="interpretation">
+                                {% if features.pause_duration_mean < 0.5 %}
+                                    <span class="status-indicator status-normal"></span>Normal pause duration
+                                {% elif features.pause_duration_mean < 1.0 %}
+                                    <span class="status-indicator status-mild"></span>Slightly increased pauses
+                                {% else %}
+                                    <span class="status-indicator status-significant"></span>Significantly increased pauses
+                                {% endif %}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card feature-card">
+                        <div class="card-body">
+                            <h5 class="card-title">Pitch Variation</h5>
+                            <p class="feature-value">{{ "%.2f"|format(features.pitch_std) }} Hz</p>
+                            <p class="interpretation">
+                                {% if features.pitch_std > 20 and features.pitch_std < 50 %}
+                                    <span class="status-indicator status-normal"></span>Normal pitch variation
+                                {% elif features.pitch_std > 10 %}
+                                    <span class="status-indicator status-mild"></span>Reduced pitch variation
+                                {% else %}
+                                    <span class="status-indicator status-significant"></span>Very limited pitch variation
+                                {% endif %}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="card feature-card">
+                        <div class="card-body">
+                            <h5 class="card-title">Energy Level</h5>
+                            <p class="feature-value">{{ "%.2f"|format(features.energy_mean) }}</p>
+                            <p class="interpretation">
+                                {% if features.energy_mean > 0.5 %}
+                                    <span class="status-indicator status-normal"></span>Good voice quality
+                                {% elif features.energy_mean > 0.3 %}
+                                    <span class="status-indicator status-mild"></span>Moderate voice quality
+                                {% else %}
+                                    <span class="status-indicator status-significant"></span>Reduced voice quality
+                                {% endif %}
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="visualization">
+                <h3>Feature Analysis</h3>
+                <img src="data:image/png;base64,{{ plot_url }}" alt="Feature Analysis" class="img-fluid">
+            </div>
+            
+            <div class="report-section">
+                <h3>Analysis Report</h3>
+                <div class="card">
+                    <div class="card-body">
+                        <pre class="mb-0">{{ report }}</pre>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="text-center mt-4">
+                <a href="{{ url_for('index') }}" class="btn btn-primary">Analyze Another File</a>
+            </div>
+        </div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html> 

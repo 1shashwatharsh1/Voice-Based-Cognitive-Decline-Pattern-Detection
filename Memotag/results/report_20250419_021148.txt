@@ -1,0 +1,21 @@
+=== Cognitive Pattern Analysis Report ===
+
+Number of samples analyzed: 90
+Number of features: 7
+
+Principal Component Analysis:
+- PC1 explains 50.31% of variance
+- PC2 explains 17.82% of variance
+- Total variance explained: 68.13%
+
+Cluster Analysis:
+- Cluster 0: 28 samples (31.1%)
+- Cluster 1: 26 samples (28.9%)
+- Cluster 2: 36 samples (40.0%)
+
+Top Features by Importance:
+- pitch_std: 0.488
+- pitch_mean: 0.462
+- speech_rate: 0.417
+- energy_mean: 0.397
+- energy_std: 0.336
