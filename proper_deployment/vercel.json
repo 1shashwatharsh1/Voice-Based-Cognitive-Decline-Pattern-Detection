@@ -1,0 +1,42 @@
+{
+    "version": 2,
+    "builds": [
+        {
+            "src": "src/web_app.py",
+            "use": "@vercel/python",
+            "config": {
+                "maxLambdaSize": "50mb"
+            }
+        },
+        {
+            "src": "src/templates/**",
+            "use": "@vercel/static"
+        },
+        {
+            "src": "src/static/**",
+            "use": "@vercel/static"
+        },
+        {
+            "src": "data/**",
+            "use": "@vercel/static"
+        }
+    ],
+    "routes": [
+        {
+            "src": "/(.*)",
+            "dest": "src/web_app.py"
+        },
+        {
+            "src": "/static/(.*)",
+            "dest": "src/static/$1"
+        },
+        {
+            "src": "/data/(.*)",
+            "dest": "data/$1"
+        }
+    ],
+    "env": {
+        "PYTHONPATH": "src",
+        "DATA_DIR": "data"
+    }
+} 
